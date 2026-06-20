@@ -318,6 +318,7 @@ function render(){
     const archBtn=isArch
       ? `<button class="btn" onclick="toggleArchive('${i.id}')">↩︎ Restaurar</button>`
       : `<button class="btn btn-arch" onclick="toggleArchive('${i.id}')">✕ Não me interessa</button>`;
+    const linkLabel=(i.status==='always')?'Acessar ↗':((i.status==='soon'||i.status==='monitor')?'Acompanhar ↗':'Ver edital ↗');
     return `<div class="card ${isArch?'archived':''} ${isFav?'fav':''}">
       <div class="card-main">
         <div class="card-top">${statusBadge[i.status]||''}<span class="tipo-tag">${i.tipo}</span><span class="mod ${modClass[i.mod]||''}">${i.modLabel||''}</span></div>
@@ -330,7 +331,7 @@ function render(){
         </div>
       </div>
       <div class="links">
-        <a class="btn btn-link" href="${i.link}" target="_blank" rel="noopener">Ver edital ↗</a>
+        <a class="btn btn-link" href="${i.link}" target="_blank" rel="noopener">${linkLabel}</a>
         ${favBtn}
         ${archBtn}
       </div>

@@ -1,0 +1,19 @@
+{
+  "_comentario": "Fontes do agregador de pós-graduação gratuita. Adicionar uma fonte = uma linha aqui. Feeds que falharem são ignorados sem quebrar o robô. DOAJ/OpenAlex/WikiCFP ficam vazios porque são voltados a periódicos acadêmicos, não a editais de pós gratuita.",
+  "rss_feeds": [
+    {"url": "https://www.pebsp.com/feed/", "area": ["pós-graduação"], "tipo": "Especialização"},
+    {"url": "https://www.horabrasil.com.br/feed/", "area": ["pós-graduação"], "tipo": "Especialização"},
+    {"url": "https://infoeducacao.com.br/feed/", "area": ["pós-graduação"], "tipo": "Especialização"},
+    {"url": "https://academiaconcursos.com.br/feed/", "area": ["pós-graduação"], "tipo": "Especialização"}
+  ],
+  "wikicfp_cats": [],
+  "doaj_queries": [],
+  "openalex_queries": [],
+  "google_cse_queries": [
+    "edital especialização gratuita EAD 2026 economia OR finanças OR contabilidade OR dados",
+    "mestrado gratuito 2026 OR 2027 economia OR administração pública inscrições edital",
+    "MBA gratuito EAD instituto federal 2026 gestão OR negócios inscrições",
+    "pós-graduação gratuita bolsa integral 2026 São Paulo finanças OR auditoria OR gestão pública",
+    "especialização gratuita IFSP OR USP OR UFABC OR UNIFESP 2026 inscrições abertas"
+  ]
+}

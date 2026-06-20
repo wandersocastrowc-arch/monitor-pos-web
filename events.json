@@ -1,0 +1,1081 @@
+{
+  "items": [
+    {
+      "id": "fundaj-ciencias-sociais-dados",
+      "nome": "Especialização em Ciências Sociais de Dados (métodos quantitativos + avaliação de políticas públicas)",
+      "inst": "Fundaj (Fundação Joaquim Nabuco / MEC)",
+      "tipo": "Especialização",
+      "areas": [
+        "dados",
+        "ciência de dados",
+        "estatística",
+        "políticas públicas",
+        "econometria"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "19/05–18/06/2026",
+      "prazoSort": "2026-06-18",
+      "status": "open",
+      "obs": "Edital 05/2026-Difor/Fundaj. 50 vagas, 360h, lato sensu, gratuito. Foco em métodos quantitativos aplicados à análise social e avaliação de políticas públicas — alta aderência (dados/econometria). Início 14/07/2026, até 18 meses, exige TCC. Exige currículo Lattes comprovado.",
+      "link": "https://www.gov.br/fundaj/pt-br/composicao/difor/editais/editais-arquivos/2026/edital-no-05-2026-curso-de-especializacao-em-ciencias-sociais-de-dados-aplicacoes-de-metodos-quantitativos-a-analise-social-e-a-avaliacao-de-politicas-publicas"
+    },
+    {
+      "id": "ifsp-gestao-riscos",
+      "nome": "Gestão de Riscos e Controles Internos da Gestão (600 vagas)",
+      "inst": "IFSP Campus São Paulo",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "auditoria",
+        "gestão pública",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD autoinstrucional",
+      "local": "",
+      "evento": "",
+      "prazo": "até 23/07/2026",
+      "prazoSort": "2026-07-23",
+      "status": "open",
+      "obs": "Edital 50/2026-DRG/SPO/IFSP. 600 vagas, sem taxa, gratuito. 40h, ago–dez/2026. Aderência forte: risco, auditoria, governança, integridade, controles internos. Seleção por ordem de inscrição, prioridade p/ servidores/colaboradores da Rede Federal — mas aberto a graduados. Carga curta (40h), vale como certificação complementar.",
+      "link": "https://www.pebsp.com/com-600-vagas-ead-ifsp-abre-inscricoes-para-curso-de-gestao-de-risco/"
+    },
+    {
+      "id": "ifap-7-especializacoes",
+      "nome": "7 Especializações lato sensu (260 vagas, incl. Gestão em Desenvolvimento Regional EAD)",
+      "inst": "IFAP (Amapá)",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "administração",
+        "economia"
+      ],
+      "mod": "online",
+      "modLabel": "EAD + presencial (encontros no AP)",
+      "local": "",
+      "evento": "",
+      "prazo": "10–19/06/2026",
+      "prazoSort": "2026-06-19",
+      "status": "open",
+      "obs": "Sem taxa, ingresso 2026.2. Mais aderente: Gestão em Desenvolvimento Regional (EAD com encontros). Encontros presenciais no Amapá — confirmar exigência de presença antes de contar com ela. Demais cursos (alimentos, informática educacional, construção) fora do perfil.",
+      "link": "https://www.pebsp.com/ifap-oferece-260-vagas-em-7-cursos-de-especializacao-gratuitos-presenciais-e-ead-em-diversas-areas-dcs/"
+    },
+    {
+      "id": "ifsc-joinville-gestao-negocios",
+      "nome": "Especialização em Gestão e Negócios (40 vagas)",
+      "inst": "IFSC Joinville (SC)",
+      "tipo": "Especialização",
+      "areas": [
+        "administração",
+        "negócios",
+        "gestão"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Joinville/SC",
+      "local": "Joinville/SC",
+      "evento": "",
+      "prazo": "01–22/06/2026",
+      "prazoSort": "2026-06-22",
+      "status": "open",
+      "obs": "Gratuito. Terças e quintas 19h-22h, 3 semestres / 390h. Forte aderência de área, mas fora de SP — referência.",
+      "link": "https://www.horabrasil.com.br/2026/05/30/especializacao-gratuita-em-gestao-e-negocios-abre-40-vagas-para-2026"
+    },
+    {
+      "id": "ufca-gestao-publica",
+      "nome": "Especialização em Gestão Pública EaD (150 vagas)",
+      "inst": "UFCA (Cariri/CE) — UAB",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (polos no CE)",
+      "local": "",
+      "evento": "",
+      "prazo": "27/05–26/06/2026",
+      "prazoSort": "2026-06-26",
+      "status": "open",
+      "obs": "Edital CEAD-UFCA 06/2026. Gratuito, 3 semestres, início 2026.2. Seleção por análise curricular (barema, máx. 10 pts), resultado 15/07. EAD via UAB — confirmar se avaliações exigem presença nos polos do CE.",
+      "link": "https://www.pebsp.com/ufca-abre-inscricoes-para-o-curso-de-especializacao-gratuita-em-gestao-publica-ead-sao-150-vagas-dcs/"
+    },
+    {
+      "id": "ifsp-filosofia",
+      "nome": "Especialização em Ensino de Filosofia",
+      "inst": "IFSP Campus SP (Canindé)",
+      "tipo": "Especialização",
+      "areas": [
+        "educação"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "15/06/2026",
+      "prazoSort": "2026-06-15",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 15/06. Fora do perfil principal — referência.",
+      "link": "https://spo.ifsp.edu.br/"
+    },
+    {
+      "id": "anpec-2026",
+      "nome": "Exame ANPEC 2026 (entrada p/ mestrados em Economia)",
+      "inst": "ANPEC (USP, UNICAMP, UFABC, UNIFESP, UFSCar, FEA-RP)",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia",
+        "econometria",
+        "economia aplicada"
+      ],
+      "mod": "varia",
+      "modLabel": "Varia por IES",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscrições 02/06–31/07/2026",
+      "prazoSort": "2026-07-31",
+      "status": "open",
+      "obs": "✅ INSCRIÇÕES ABERTAS (02/06 a 31/07). Prova 17–18/09/2026, presencial. Bolsa CAPES ~R$ 2.100/mês. Ingresso 2027. Porta única p/ 7 IES — inscreva-se cedo. Aberto a graduados de qualquer área e estudantes.",
+      "link": "https://www.anpec.org.br/novosite/br/exame"
+    },
+    {
+      "id": "ufabc-ppgccm",
+      "nome": "PPGCCM — Ciência da Computação (fluxo contínuo)",
+      "inst": "UFABC",
+      "tipo": "Mestrado",
+      "areas": [
+        "dados",
+        "IA",
+        "ciência de dados"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Santo André",
+      "local": "Santo André/SP",
+      "evento": "",
+      "prazo": "08/07/2026 (próxima janela)",
+      "prazoSort": "2026-07-08",
+      "status": "open",
+      "obs": "Bolsas CAPES/CNPq. Requer aceite de orientador + POSCOMP/GRE/aluno especial.",
+      "link": "https://sig.ufabc.edu.br/sigaa/public/processo_seletivo/lista.jsf?aba=p-processo&nivel=S"
+    },
+    {
+      "id": "ufabc-ppgmat",
+      "nome": "PPGMAT — Matemática (fluxo contínuo)",
+      "inst": "UFABC",
+      "tipo": "Mestrado",
+      "areas": [
+        "estatística",
+        "economia aplicada"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Santo André",
+      "local": "Santo André/SP",
+      "evento": "",
+      "prazo": "Janelas trimestrais",
+      "prazoSort": "2026-07-01",
+      "status": "open",
+      "obs": "CAPES, bolsas disponíveis.",
+      "link": "https://posmat.ufabc.edu.br/"
+    },
+    {
+      "id": "ifsuldeminas-4esp",
+      "nome": "4 Especializações EAD (incl. Desenvolvimento Web)",
+      "inst": "IFSULDEMINAS",
+      "tipo": "Especialização",
+      "areas": [
+        "dados",
+        "administração",
+        "negócios"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "12/06/2026",
+      "prazoSort": "2026-06-12",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 12/06. Edital 123/2026, ~450 vagas, seleção por sorteio. Monitorar próxima edição.",
+      "link": "https://portal.ifsuldeminas.edu.br/index.php/pos-graduacao-ead2/pos-graduacao-abertos-ead"
+    },
+    {
+      "id": "ifrn-590",
+      "nome": "590 vagas em especializações lato sensu (Edital 31/2026)",
+      "inst": "IFRN (RN)",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "dados",
+        "ciência de dados"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial 14 polos RN + 1 EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "14/06/2026",
+      "prazoSort": "2026-06-14",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 14/06. Maioria presencial no RN; única EAD era ambiental. Fora do perfil geográfico — referência.",
+      "link": "https://www.pebsp.com/ifrn-publica-edital-com-590-vagas-para-cursos-grautitos-de-especializacao-presenciais-e-a-distancia-em-14-polos-dcs/"
+    },
+    {
+      "id": "fgv-ecmi-com-digital",
+      "nome": "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
+      "inst": "FGV-ECMI (RJ)",
+      "tipo": "Mestrado",
+      "areas": [
+        "dados",
+        "ciência de dados"
+      ],
+      "mod": "hibrido",
+      "modLabel": "Híbrido (1 semana/tri no RJ + remoto)",
+      "local": "",
+      "evento": "",
+      "prazo": "10/06/2026",
+      "prazoSort": "2026-06-10",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 10/06. 36 vagas / 30 bolsas integrais (Itaú + FGV). Monitorar próxima edição.",
+      "link": "https://mestrado-doutorado.fgv.br/cursos"
+    },
+    {
+      "id": "ifsp-eja",
+      "nome": "Especialização em Educação Profissional Integrada à EJA",
+      "inst": "IFSP Campus SP (Canindé)",
+      "tipo": "Especialização",
+      "areas": [
+        "educação"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "08/06/2026",
+      "prazoSort": "2026-06-08",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 08/06. Fora do perfil principal.",
+      "link": "https://spo.ifsp.edu.br/"
+    },
+    {
+      "id": "fgv-mpgpp-primeira-infancia",
+      "nome": "MPGPP — Ênfase Primeira Infância",
+      "inst": "FGV-EAESP",
+      "tipo": "Mestrado",
+      "areas": [
+        "políticas públicas",
+        "gestão",
+        "administração"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "10/06/2026",
+      "prazoSort": "2026-06-10",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 10/06. 36 vagas / 30 bolsas integrais Itaú. Monitorar próxima edição.",
+      "link": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/sao-paulo/gestao-e-politicas-publicas-primeira-infancia"
+    },
+    {
+      "id": "fgv-mpgpp-ept",
+      "nome": "MPGPP — Ênfase Educação Profissional e Tecnológica (EPT)",
+      "inst": "FGV-EAESP",
+      "tipo": "Mestrado",
+      "areas": [
+        "políticas públicas",
+        "gestão",
+        "administração"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "25/05/2026",
+      "prazoSort": "2026-05-25",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO 25/05. 36 vagas / 30 bolsas integrais Itaú. Monitorar próxima edição.",
+      "link": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/sao-paulo/mestrado-profissional-em-gestao-e-politicas-publicas-com"
+    },
+    {
+      "id": "usp-icmc-mecai",
+      "nome": "MECAI — Mat./Estat./Computação Aplicadas à Indústria (Ciência de Dados)",
+      "inst": "USP-ICMC (São Carlos)",
+      "tipo": "Mestrado",
+      "areas": [
+        "dados",
+        "ciência de dados",
+        "estatística"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial São Carlos/SP",
+      "local": "São Carlos/SP",
+      "evento": "",
+      "prazo": "14/05/2026",
+      "prazoSort": "2026-05-14",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO. Próxima edição: monitorar.",
+      "link": "https://icmc.usp.br/noticias/5272-pos-graduacao-gratuita-na-usp-mestrado-profissional-com-enfase-em-ciencia-de-dados"
+    },
+    {
+      "id": "ifsp-campinas-cd",
+      "nome": "Especialização em Ciência de Dados (Edital 34/2026)",
+      "inst": "IFSP Campinas",
+      "tipo": "Especialização",
+      "areas": [
+        "dados",
+        "ciência de dados",
+        "IA"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (UAB)",
+      "local": "",
+      "evento": "",
+      "prazo": "17/05/2026",
+      "prazoSort": "2026-05-17",
+      "status": "closed",
+      "obs": "PRAZO ENCERRADO. 150 vagas, sorteio 21/05. Monitorar próxima edição.",
+      "link": "https://portal.cmp.ifsp.edu.br/index.php/noticias/5023-psposcienciadedados20262"
+    },
+    {
+      "id": "usp-fea-economia",
+      "nome": "Mestrado Acadêmico em Economia (via ANPEC)",
+      "inst": "USP-FEA",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia",
+        "econometria"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "Até 25 vagas. Nota mín. 5 (RP ANPEC). Sem cartas de recomendação. CAPES nota 7. Edital próprio sai após inscrição ANPEC.",
+      "link": "https://www.fea.usp.br/economia/pos-graduacao/processo-seletivo/mestrado"
+    },
+    {
+      "id": "unicamp-ie",
+      "nome": "Mestrado em Ciência Econômica (via ANPEC)",
+      "inst": "UNICAMP-IE",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Campinas",
+      "local": "Campinas/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "CAPES nota 6.",
+      "link": "https://eco.unicamp.br/ensino/pos-graduacao-2/processos-seletivos-stricto-sensu/mestrado-e-doutorado-em-ciencia-economica-2026"
+    },
+    {
+      "id": "ufabc-ppge",
+      "nome": "Mestrado em Economia (PPGE) via ANPEC",
+      "inst": "UFABC",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Santo André",
+      "local": "Santo André/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "CAPES nota 4. Bolsa DS-CAPES. Regime quadrimestral.",
+      "link": "https://sites.google.com/view/ppgeconomiaufabc/acad%C3%AAmico/processo-seletivo"
+    },
+    {
+      "id": "unifesp-pped",
+      "nome": "PPED — Mestrado em Economia e Desenvolvimento",
+      "inst": "UNIFESP-EPPEN Osasco",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia",
+        "desenvolvimento"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Osasco/SP",
+      "local": "Osasco/SP",
+      "evento": "",
+      "prazo": "Edital próprio (verificar)",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "Bolsas CAPES/DS.",
+      "link": "https://unifesp.br/campus/osa2/pos-graduacao/mestrados/economia"
+    },
+    {
+      "id": "ufscar-ppgec",
+      "nome": "PPGEc — Mestrado em Economia (via ANPEC)",
+      "inst": "UFSCar Sorocaba",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Sorocaba",
+      "local": "Sorocaba/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "Bolsa DS-CAPES.",
+      "link": "https://www.ppgec.ufscar.br"
+    },
+    {
+      "id": "usp-fearp",
+      "nome": "Mestrado em Economia (via ANPEC)",
+      "inst": "USP-FEA-RP (Ribeirão Preto)",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia",
+        "economia aplicada"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Ribeirão Preto",
+      "local": "Ribeirão Preto/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "Programa consolidado.",
+      "link": "https://www.fearp.usp.br/ppge/processos-seletivos/mestrado.html"
+    },
+    {
+      "id": "usp-esalq-ppgea",
+      "nome": "PPGEA — Economia Aplicada (via ANPEC)",
+      "inst": "USP-ESALQ (Piracicaba)",
+      "tipo": "Mestrado",
+      "areas": [
+        "economia aplicada",
+        "econometria"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Piracicaba",
+      "local": "Piracicaba/SP",
+      "evento": "",
+      "prazo": "Edital ago-set/2026 (ingresso 2027)",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "CAPES nota 7. Top em economia aplicada.",
+      "link": "https://www.esalq.usp.br/pg/programas/economia-aplicada/ps/criterios-de-selecao"
+    },
+    {
+      "id": "usp-fea-ppgcc",
+      "nome": "PPGCC — Mestrado em Controladoria e Contabilidade",
+      "inst": "USP-FEA",
+      "tipo": "Mestrado",
+      "areas": [
+        "contabilidade",
+        "controladoria",
+        "finanças",
+        "auditoria"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "Inscrições 18/08-15/12/2026 (esperado)",
+      "prazoSort": "2026-08-18",
+      "status": "soon",
+      "obs": "Prova ANPAD/GMAT/GRE + inglês + arguição oral e avaliação curricular. Ingresso por linha de pesquisa. CAPES nota 6.",
+      "link": "https://www.fea.usp.br/contabilidade/pos-graduacao/processo-seletivo/mestrado"
+    },
+    {
+      "id": "usp-each-gpp",
+      "nome": "Mestrado em Gestão de Políticas Públicas",
+      "inst": "USP-EACH (USP Leste)",
+      "tipo": "Mestrado",
+      "areas": [
+        "políticas públicas",
+        "administração",
+        "economia"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "Edital set-nov/2026 (esperado)",
+      "prazoSort": "2026-10-01",
+      "status": "soon",
+      "obs": "Inclui linhas de economia aplicada.",
+      "link": "https://www5.each.usp.br/mestrado-em-gestao-de-politicas-publicas/"
+    },
+    {
+      "id": "usp-each-ppgsi",
+      "nome": "PPGSI — Mestrado em Sistemas de Informação",
+      "inst": "USP-EACH",
+      "tipo": "Mestrado",
+      "areas": [
+        "dados",
+        "IA",
+        "ciência de dados"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial SP capital",
+      "local": "São Paulo/SP",
+      "evento": "",
+      "prazo": "Edital semestral",
+      "prazoSort": "2026-09-01",
+      "status": "soon",
+      "obs": "Linha de Inteligência de Sistemas. 36 vagas/ciclo.",
+      "link": "http://ppgsi.each.usp.br/mestrado-edital/"
+    },
+    {
+      "id": "profiap-unifesp",
+      "nome": "PROFIAP — Mestrado Profissional em Administração Pública",
+      "inst": "UNIFESP Osasco (e outras)",
+      "tipo": "Mestrado",
+      "areas": [
+        "administração",
+        "gestão pública"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Osasco/SP",
+      "local": "Osasco/SP",
+      "evento": "",
+      "prazo": "ENA 2027.1 out-dez/2026",
+      "prazoSort": "2026-10-01",
+      "status": "soon",
+      "obs": "Federal, gratuito. Teste ANPAD.",
+      "link": "https://profiap.org.br/"
+    },
+    {
+      "id": "ufscar-ppga",
+      "nome": "PPGA — Mestrado em Administração",
+      "inst": "UFSCar Sorocaba",
+      "tipo": "Mestrado",
+      "areas": [
+        "administração"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial Sorocaba",
+      "local": "Sorocaba/SP",
+      "evento": "",
+      "prazo": "Inscrições final/2026",
+      "prazoSort": "2026-12-01",
+      "status": "soon",
+      "obs": "Teste ANPAD (≥300 pts) + projeto.",
+      "link": "https://anpad.org.br/ufscar-mestrado-2026/"
+    },
+    {
+      "id": "ifb-gestao-publica",
+      "nome": "Especialização em Gestão Pública: Governança e Políticas Públicas",
+      "inst": "IFB Campus Brasília",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "administração",
+        "políticas públicas"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (confirmar)",
+      "local": "",
+      "evento": "",
+      "prazo": "Início aulas 30/07/2026 — verificar inscrição",
+      "prazoSort": "2026-07-20",
+      "status": "monitor",
+      "obs": "NOVO. Especialização gratuita lato sensu pelo IFB campus Brasília, início previsto 30/07/2026. Aderência de área (governança, políticas públicas). Confirmar no portal do IFB a modalidade exata (EAD x presencial Brasília) e o período de inscrição antes de contar com ela.",
+      "link": "https://www.ifb.edu.br/"
+    },
+    {
+      "id": "uesc-gestao-financeira",
+      "nome": "Gestão Financeira + Consultoria Organizacional EaD (300 vagas)",
+      "inst": "UESC (BA) — UAB",
+      "tipo": "Especialização",
+      "areas": [
+        "finanças",
+        "contabilidade",
+        "administração",
+        "auditoria"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (encontros presenciais BA)",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar nova chamada",
+      "prazoSort": "2026-06-18",
+      "status": "monitor",
+      "obs": "Edital 100/2025, 300 vagas, gratuito. Gestão Financeira cobre teoria contábil, custos, compliance e auditoria. Encontros presenciais obrigatórios em polos da BA. Confirmar se há chamada 2026 vigente antes de contar com ela.",
+      "link": "https://www.pebsp.com/2-cursos-de-pos-graduacao-ead-em-consultoria-e-financas-focadas-no-mercado-de-trabalho-inscricoes-ate-18-06/"
+    },
+    {
+      "id": "ifsc-floripa-gp",
+      "nome": "Especialização EAD em Gestão Pública (280 vagas)",
+      "inst": "IFSC Florianópolis",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar edital 2026.2",
+      "prazoSort": "2026-07-15",
+      "status": "monitor",
+      "obs": "280 vagas EAD. Confirmar período de inscrição no portal do IFSC.",
+      "link": "https://www.ifsc.edu.br/web/noticias/w/ifsc-oferece-280-vagas-para-especializacao-ead-em-gestao-publica-no-campus-florianopolis"
+    },
+    {
+      "id": "enap-mba-gp",
+      "nome": "MBA em Gestão Pública (EaD) — 6ª edição",
+      "inst": "ENAP",
+      "tipo": "MBA",
+      "areas": [
+        "gestão pública",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "6ª edição prevista out/2026",
+      "prazoSort": "2026-10-01",
+      "status": "monitor",
+      "obs": "Só para servidores públicos efetivos. 5ª edição (fev/2026) já encerrada.",
+      "link": "https://www.enap.gov.br/pos-graduacao/especializacao-e-mba/mba-gestao-publica/"
+    },
+    {
+      "id": "unb-governanca-financas",
+      "nome": "Especialização em Governança, Finanças e Gestão Sustentável no Setor Público",
+      "inst": "UnB / UAB",
+      "tipo": "Especialização",
+      "areas": [
+        "finanças",
+        "gestão pública"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (polos UAB)",
+      "local": "",
+      "evento": "",
+      "prazo": "Próximo edital — monitorar",
+      "prazoSort": "2026-09-01",
+      "status": "monitor",
+      "obs": "Mínimo 50% das vagas para servidores. UnB-CCA também oferta Contabilidade e Finanças Públicas Municipais EAD — acompanhar SIGAA/UnB.",
+      "link": "https://noticias.unb.br/component/agenda/agenda/4706"
+    },
+    {
+      "id": "ufu-mba-privacidade",
+      "nome": "MBA em Privacidade e Segurança da Informação",
+      "inst": "UFU",
+      "tipo": "MBA",
+      "areas": [
+        "administração",
+        "negócios"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "Próxima turma — monitorar",
+      "prazoSort": "2026-08-01",
+      "status": "monitor",
+      "obs": "Para servidores federais.",
+      "link": "https://comunica.ufu.br/comunicados/2026/01/inscricoes-abertas-para-o-mba-gratuito-em-privacidade-e-seguranca-da-informacao"
+    },
+    {
+      "id": "ifsudestemg-mba",
+      "nome": "MBA em Gestão Empreendedora",
+      "inst": "IF Sudeste MG (Rio Pomba)",
+      "tipo": "MBA",
+      "areas": [
+        "administração",
+        "negócios"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "Edital 2026.2 — monitorar",
+      "prazoSort": "2026-09-01",
+      "status": "monitor",
+      "obs": "30 vagas. Totalmente gratuito.",
+      "link": "https://www.pebsp.com/esses-2-editais-estao-com-inscricoes-abertas-para-mba-ead-e-reconhecidos-pelo-mec/"
+    },
+    {
+      "id": "ifrs-mba",
+      "nome": "MBA em Gestão Empresarial",
+      "inst": "IFRS Campus Feliz",
+      "tipo": "MBA",
+      "areas": [
+        "administração",
+        "negócios"
+      ],
+      "mod": "presencial-fora-sp",
+      "modLabel": "Presencial RS",
+      "local": "",
+      "evento": "",
+      "prazo": "Próximo edital — monitorar",
+      "prazoSort": "2026-09-01",
+      "status": "monitor",
+      "obs": "32 vagas, gratuito.",
+      "link": "https://ifrs.edu.br/especializacoes-e-mestrado-gratuitos-do-ifrs-abrem-processo-de-selecao-de-estudantes/"
+    },
+    {
+      "id": "ifmg-analise-dados",
+      "nome": "Especialização em Análise Estratégica de Dados",
+      "inst": "IFMG (Formiga)",
+      "tipo": "Especialização",
+      "areas": [
+        "dados",
+        "ciência de dados",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "Próximo edital out-dez/2026",
+      "prazoSort": "2026-10-01",
+      "status": "monitor",
+      "obs": "140 vagas. Forte aderência ao perfil. Edição anterior encerrou em jun/2026 — monitorar reabertura.",
+      "link": "https://www.ifmg.edu.br/portal/noticias/ifmg-oferta-pos-graduacao-gratuita-em-analise-estrategica-de-dados"
+    },
+    {
+      "id": "ifgoiano-ia",
+      "nome": "Especialização em IA Aplicada a Dados Corporativos",
+      "inst": "IF Goiano",
+      "tipo": "Especialização",
+      "areas": [
+        "IA",
+        "dados",
+        "ciência de dados"
+      ],
+      "mod": "online",
+      "modLabel": "EAD com aulas síncronas",
+      "local": "",
+      "evento": "",
+      "prazo": "Turma 2027 — monitorar",
+      "prazoSort": "2027-01-01",
+      "status": "monitor",
+      "obs": "30 vagas. Sem taxa. Certificação modular.",
+      "link": "https://www.ifgoiano.edu.br/home/index.php/especializacoes/29358-inteligencia-artificial-aplicada-a-dados-corporativos.html"
+    },
+    {
+      "id": "ifes-ia",
+      "nome": "Especialização em Inteligência Artificial",
+      "inst": "IFES São Mateus",
+      "tipo": "Especialização",
+      "areas": [
+        "IA"
+      ],
+      "mod": "online",
+      "modLabel": "EAD",
+      "local": "",
+      "evento": "",
+      "prazo": "Próximo edital — monitorar",
+      "prazoSort": "2026-12-01",
+      "status": "monitor",
+      "obs": "200 vagas. Forte aderência.",
+      "link": "https://www.saomateus.ifes.edu.br/"
+    },
+    {
+      "id": "ufabc-geoprocessamento",
+      "nome": "Especialização em Geoprocessamento",
+      "inst": "UFABC",
+      "tipo": "Especialização",
+      "areas": [
+        "dados",
+        "ciência de dados"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (polos SP)",
+      "local": "",
+      "evento": "",
+      "prazo": "Turma 2027 — monitorar",
+      "prazoSort": "2026-12-01",
+      "status": "monitor",
+      "obs": "210 vagas. Federal, Grande SP.",
+      "link": "https://propg.ufabc.edu.br/processos-seletivos/"
+    },
+    {
+      "id": "ifsp-braganca-geti",
+      "nome": "Especialização em Gestão Estratégica de TI (GETI)",
+      "inst": "IFSP Bragança Paulista",
+      "tipo": "Especialização",
+      "areas": [
+        "administração",
+        "dados"
+      ],
+      "mod": "sp",
+      "modLabel": "Presencial Bragança Paulista",
+      "local": "Bragança Paulista/SP",
+      "evento": "",
+      "prazo": "Edital 2026.2 — monitorar",
+      "prazoSort": "2026-07-01",
+      "status": "monitor",
+      "obs": "20 vagas. Terças e quintas à noite.",
+      "link": "https://www.ifsp.edu.br/"
+    },
+    {
+      "id": "coursera-google-data",
+      "nome": "Google Data Analytics Professional Certificate",
+      "inst": "Coursera (Google)",
+      "tipo": "Curso longo",
+      "areas": [
+        "dados",
+        "ciência de dados"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscrição aberta",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Financial Aid Coursera (até 100% para brasileiros). ~6 meses.",
+      "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+      "id": "coursera-ibm-ds",
+      "nome": "IBM Data Science Professional Certificate",
+      "inst": "Coursera (IBM)",
+      "tipo": "Curso longo",
+      "areas": [
+        "dados",
+        "ciência de dados",
+        "IA"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscrição aberta",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Financial Aid. ~6-11 meses.",
+      "link": "https://www.coursera.org/professional-certificates/ibm-data-science"
+    },
+    {
+      "id": "coursera-google-ai",
+      "nome": "Google AI Professional Certificate",
+      "inst": "Coursera (Google)",
+      "tipo": "Curso longo",
+      "areas": [
+        "IA",
+        "dados"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscrição aberta",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Financial Aid. Lançado fev/2026.",
+      "link": "https://www.coursera.org/professional-certificates/google-ai"
+    },
+    {
+      "id": "edx-mitx-finance",
+      "nome": "MITx MicroMasters in Finance",
+      "inst": "edX (MIT)",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "economia",
+        "econometria"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscrição aberta",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Audit gratuito + Financial Assistance até 90%. 12-18 meses, 5 cursos.",
+      "link": "https://www.edx.org/masters/micromasters/mitx-finance"
+    },
+    {
+      "id": "fgv-online",
+      "nome": "FGV Online — 216 cursos gratuitos com certificado",
+      "inst": "FGV",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "contabilidade",
+        "economia",
+        "administração",
+        "IA",
+        "dados"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Trilhas combinadas chegam a 200h+. Inclui Matemática Financeira, Análise das Demonstrações Contábeis, Análise de Investimentos, Finanças Corporativas.",
+      "link": "https://educacao-executiva.fgv.br/cursos/gratuitos"
+    },
+    {
+      "id": "bradesco-ev",
+      "nome": "Escola Virtual Fundação Bradesco",
+      "inst": "Fundação Bradesco",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "administração",
+        "contabilidade",
+        "IA"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "100+ cursos com certificado. Trilhas longas em finanças e IA.",
+      "link": "https://www.ev.org.br/"
+    },
+    {
+      "id": "sebrae",
+      "nome": "Sebrae — Cursos e trilhas gratuitas",
+      "inst": "Sebrae",
+      "tipo": "Curso longo",
+      "areas": [
+        "administração",
+        "finanças",
+        "negócios"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "400+ cursos. Foco em empreendedorismo e finanças PME.",
+      "link": "https://sebrae.com.br/"
+    },
+    {
+      "id": "anbima-edu",
+      "nome": "ANBIMA Edu — Jornadas de Mercado Financeiro",
+      "inst": "ANBIMA",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "mercado financeiro",
+        "investimentos"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "100% gratuito. Conteúdo CPA-10, ESG, criptoeconomia.",
+      "link": "https://anbimaedu.com.br/"
+    },
+    {
+      "id": "bcb-cidadania",
+      "nome": "Cidadania Financeira BCB",
+      "inst": "Banco Central",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "economia"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Cursos com certificado em finanças pessoais e multiplicadores.",
+      "link": "https://www.bcb.gov.br/cidadaniafinanceira/cursos"
+    },
+    {
+      "id": "tesouro-evg",
+      "nome": "Curso Tesouro Direto + EVG",
+      "inst": "Tesouro Nacional / Escola Virtual.Gov",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "mercado financeiro",
+        "economia"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "3 níveis com certificado oficial.",
+      "link": "https://www.escolavirtual.gov.br/curso/244"
+    },
+    {
+      "id": "b3-edu",
+      "nome": "B3 Educação — Trilhas Mercado Financeiro",
+      "inst": "B3",
+      "tipo": "Curso longo",
+      "areas": [
+        "finanças",
+        "mercado financeiro",
+        "investimentos"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Expandido em 03/2026. Certificado B3.",
+      "link": "https://edu.b3.com.br/"
+    },
+    {
+      "id": "evg-catalogo",
+      "nome": "Escola Virtual.Gov — Catálogo ENAP/Gov",
+      "inst": "ENAP / Gov Federal",
+      "tipo": "Curso longo",
+      "areas": [
+        "gestão pública",
+        "contabilidade",
+        "auditoria",
+        "dados",
+        "IA"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "206 cursos lançados em 2025 + 31 em 2026.",
+      "link": "https://www.escolavirtual.gov.br/"
+    },
+    {
+      "id": "cgu-auditoria",
+      "nome": "CGU Capacitação — Auditoria Governamental",
+      "inst": "CGU",
+      "tipo": "Curso longo",
+      "areas": [
+        "auditoria",
+        "gestão pública"
+      ],
+      "mod": "online",
+      "modLabel": "Online",
+      "local": "",
+      "evento": "",
+      "prazo": "Sempre aberto",
+      "prazoSort": "2099-01-01",
+      "status": "always",
+      "obs": "Trilha completa em auditoria interna gov.",
+      "link": "https://ead.cgu.gov.br/"
+    }
+  ]
+}

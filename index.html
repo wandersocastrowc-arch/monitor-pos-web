@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monitor de Pós-Graduação Gratuita — Wanderson</title>
+<meta name="description" content="Mestrado, especialização, MBA e cursos longos gratuitos — economia, finanças, dados e gestão. Online ou em SP. Atualizado toda semana.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="favicon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Monitor de Pós-Graduação Gratuita">
+<meta property="og:title" content="Monitor de Pós-Graduação Gratuita">
+<meta property="og:description" content="Mestrado, especialização, MBA e cursos longos gratuitos — economia, finanças, dados e gestão. Online ou em SP. Atualizado toda semana.">
+<meta property="og:url" content="https://wandersocastrowc-arch.github.io/monitor-pos-web/">
+<meta property="og:image" content="https://wandersocastrowc-arch.github.io/monitor-pos-web/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Monitor de Pós-Graduação Gratuita">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Monitor de Pós-Graduação Gratuita">
+<meta name="twitter:description" content="Mestrado, especialização, MBA e cursos longos gratuitos — online ou em SP.">
+<meta name="twitter:image" content="https://wandersocastrowc-arch.github.io/monitor-pos-web/og-image.png">
+<style>
+  :root{
+    --azul:#1f3a8a; --azul-2:#2563eb; --indigo:#4f46e5; --verde:#0f766e;
+    --bg:#f7f8fb; --card:#ffffff; --ink:#16181d; --muted:#6b7280; --line:#e4e7ee;
+    color-scheme:light;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;}
+  .wrap{max-width:1200px;margin:0 auto;padding:24px 20px 70px;}
+  header h1{font-size:26px;margin:0 0 6px;font-weight:700;color:var(--azul);}
+  .subtitle{color:#444;font-size:14px;margin-bottom:8px;}
+  .meta{font-size:12px;color:var(--muted);}
+  .meta strong{color:var(--azul);}
+  .meta a{color:var(--indigo);font-weight:600;text-decoration:none;}
+  .stats{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 14px;flex:1 1 120px;min-width:120px;}
+  .stat .num{font-size:22px;font-weight:700;color:var(--azul-2);}
+  .stat.fav .num{color:#b45309;}
+  .stat.arch .num{color:var(--muted);}
+  .stat .label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.4px;}
+  .priority{background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:14px 16px;margin-bottom:20px;}
+  .priority h2{font-size:14px;font-weight:700;color:#92400e;margin:0 0 8px;}
+  .priority ul{list-style:none;padding:0;margin:0;}
+  .priority li{padding:6px 0;border-bottom:1px dashed #fde68a;font-size:13px;}
+  .priority li:last-child{border:none;}
+  .priority a{color:inherit;text-decoration:none;display:block;}
+  .priority a:hover strong{text-decoration:underline;}
+  .pz{color:#92400e;font-weight:700;}
+  .arrow{color:var(--azul-2);font-weight:700;margin-left:4px;}
+  .filters{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:16px;}
+  .frow{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;}
+  .fg{display:flex;flex-direction:column;gap:4px;}
+  .fg label{font-size:11px;color:#555;font-weight:600;text-transform:uppercase;}
+  .fg select,.fg input{padding:7px 10px;border:1px solid #d4d8e2;border-radius:6px;background:#fff;font-size:13px;min-width:160px;}
+  .toggles{display:flex;flex-wrap:wrap;gap:16px;margin-top:10px;}
+  .toggle{display:flex;align-items:center;gap:6px;font-size:13px;color:#444;cursor:pointer;user-select:none;}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;}
+  .chip{padding:4px 10px;border-radius:12px;background:#eef2ff;border:1px solid #c7d2fe;color:var(--indigo);font-size:12px;cursor:pointer;user-select:none;}
+  .chip.active{background:var(--indigo);color:#fff;border-color:var(--indigo);}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:10px;display:flex;gap:14px;align-items:flex-start;}
+  .card.archived{opacity:.55;}
+  .card.fav{border-color:#f5c97a;box-shadow:0 0 0 1px #f5c97a inset;background:#fffdf7;}
+  .card-main{flex:1;min-width:0;}
+  .card-top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:4px;}
+  .title{font-weight:700;color:var(--azul);font-size:15px;}
+  .star-ico{color:#d97706;}
+  .inst{font-size:12px;color:var(--muted);margin-bottom:6px;}
+  .badge{display:inline-block;padding:3px 9px;border-radius:10px;font-size:11px;font-weight:700;white-space:nowrap;}
+  .b-open{background:#d1fae5;color:#065f46;}
+  .b-soon{background:#fef3c7;color:#92400e;}
+  .b-monitor{background:#e0e7ff;color:#3730a3;}
+  .b-always{background:#f3f4f6;color:#374151;}
+  .b-closed{background:#fee2e2;color:#991b1b;}
+  .tag{font-size:10px;padding:1px 7px;border-radius:3px;background:#e0f2fe;color:#075985;margin-right:4px;display:inline-block;margin-top:2px;}
+  .tipo-tag{font-size:11px;padding:2px 8px;border-radius:4px;background:var(--azul);color:#fff;}
+  .mod{font-size:11px;color:#555;}
+  .mod.mod-online{color:#5b21b6;font-weight:600;}
+  .mod.mod-sp{color:#92400e;font-weight:600;}
+  .obs{font-size:12.5px;color:#444;margin:6px 0;}
+  .row-meta{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:#555;margin-top:4px;}
+  .row-meta b{color:var(--azul);}
+  .links{display:flex;flex-direction:column;gap:6px;align-items:stretch;min-width:150px;}
+  .btn{font-size:12px;padding:6px 10px;border-radius:6px;border:1px solid #d4d8e2;background:#fff;color:var(--azul);cursor:pointer;text-decoration:none;text-align:center;white-space:nowrap;}
+  .btn:hover{background:#eef1f7;}
+  .btn-link{background:var(--azul-2);color:#fff;border-color:var(--azul-2);font-weight:600;}
+  .btn-link:hover{background:#1d4ed8;}
+  .btn-fav{color:#b45309;border-color:#f0d49a;}
+  .btn-fav.on{background:#fde68a;border-color:#f0c45a;color:#7c4a02;font-weight:700;}
+  .btn-arch{color:#991b1b;}
+  .empty{padding:40px;text-align:center;color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:10px;}
+  footer{margin-top:28px;font-size:12px;color:var(--muted);text-align:center;padding-top:16px;border-top:1px solid var(--line);}
+  @media(max-width:640px){.card{flex-direction:column;}.links{flex-direction:row;align-items:stretch;width:100%;}.links .btn{flex:1;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Monitor de Pós-Graduação Gratuita</h1>
+    <div class="subtitle">Mestrado · Especialização · MBA · Cursos longos — economia, finanças, contabilidade, dados, IA e gestão pública · online ou presencial em SP</div>
+    <div class="meta">Última atualização: <strong id="last-update">—</strong> · Atualiza automaticamente segundas às 9h · <a href="sobre.html">ℹ️ Como funciona</a></div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><div class="num" id="s-open">0</div><div class="label">Abertos agora</div></div>
+    <div class="stat"><div class="num" id="s-soon">0</div><div class="label">Abrem em breve</div></div>
+    <div class="stat"><div class="num" id="s-monitor">0</div><div class="label">A monitorar</div></div>
+    <div class="stat"><div class="num" id="s-always">0</div><div class="label">Sempre abertos</div></div>
+    <div class="stat fav"><div class="num" id="s-fav">0</div><div class="label">★ Favoritos</div></div>
+    <div class="stat arch"><div class="num" id="s-arch">0</div><div class="label">Arquivados</div></div>
+  </div>
+
+  <div class="priority" id="priority-box" style="display:none;">
+    <h2>🔥 Prioridades — prazos nos próximos 30 dias</h2>
+    <ul id="priority-list"></ul>
+  </div>
+
+  <div class="filters">
+    <div class="frow">
+      <div class="fg">
+        <label>Status</label>
+        <select id="f-status">
+          <option value="">Todos</option>
+          <option value="open">Abertos agora</option>
+          <option value="soon">Abrem em breve</option>
+          <option value="monitor">A monitorar</option>
+          <option value="always">Sempre abertos</option>
+          <option value="closed">Encerrados</option>
+        </select>
+      </div>
+      <div class="fg">
+        <label>Tipo</label>
+        <select id="f-tipo">
+          <option value="">Todos</option>
+          <option value="Mestrado">Mestrado</option>
+          <option value="Especialização">Especialização</option>
+          <option value="MBA">MBA</option>
+          <option value="Curso longo">Curso longo</option>
+        </select>
+      </div>
+      <div class="fg">
+        <label>Modalidade</label>
+        <select id="f-mod">
+          <option value="">Todas</option>
+          <option value="online">Online / EAD</option>
+          <option value="sp">Presencial SP</option>
+          <option value="hibrido">Híbrido</option>
+          <option value="presencial-fora-sp">Presencial fora de SP</option>
+        </select>
+      </div>
+      <div class="fg" style="flex:1;min-width:200px;">
+        <label>Buscar</label>
+        <input id="f-search" type="text" placeholder="Instituição, área, programa, local…">
+      </div>
+    </div>
+    <div class="toggles">
+      <label class="toggle"><input type="checkbox" id="f-fav"> ★ Só favoritos</label>
+      <label class="toggle"><input type="checkbox" id="f-archived"> Mostrar arquivados</label>
+    </div>
+    <div class="chips" id="area-chips"></div>
+  </div>
+
+  <div id="list"></div>
+
+  <footer>
+    Curadoria automática revisada · marque ★ no que te interessa e arquive o que não interessa para focar nas melhores oportunidades · confira sempre o edital oficial antes de se inscrever
+  </footer>
+</div>
+
+<script>
+const ARCH_KEY = "pos_arquivados";
+const FAV_KEY  = "pos_favoritos";
+const SHOW_ARCH_KEY = "pos_show_arch";
+const ONLY_FAV_KEY  = "pos_only_fav";
+let ITEMS = [];
+const selectedAreas = new Set();
+
+function getSet(k){ try{return new Set(JSON.parse(localStorage.getItem(k)||"[]"));}catch(e){return new Set();} }
+function saveSet(k,s){ localStorage.setItem(k, JSON.stringify([...s])); }
+function getArchived(){ return getSet(ARCH_KEY); }
+function getFavs(){ return getSet(FAV_KEY); }
+
+function toggleArchive(id){
+  const a=getArchived(); if(a.has(id))a.delete(id); else { a.add(id); const f=getFavs(); f.delete(id); saveSet(FAV_KEY,f); }
+  saveSet(ARCH_KEY,a); render();
+}
+function toggleFav(id){
+  const f=getFavs(); if(f.has(id))f.delete(id); else { f.add(id); const a=getArchived(); a.delete(id); saveSet(ARCH_KEY,a); }
+  saveSet(FAV_KEY,f); render();
+}
+window.toggleArchive = toggleArchive;
+window.toggleFav = toggleFav;
+
+const statusBadge = {
+  open:'<span class="badge b-open">Aberto</span>',
+  soon:'<span class="badge b-soon">Abre logo</span>',
+  monitor:'<span class="badge b-monitor">Monitorar</span>',
+  always:'<span class="badge b-always">Sempre aberto</span>',
+  closed:'<span class="badge b-closed">Encerrado</span>',
+};
+const statusOrder = {open:0, soon:1, monitor:2, always:3, closed:4};
+const modClass = {online:'mod-online', sp:'mod-sp'};
+
+function daysUntil(iso){
+  if(!iso) return null;
+  const d=new Date(iso+"T00:00:00"); if(isNaN(d)) return null;
+  return Math.ceil((d - new Date(new Date().toDateString()))/86400000);
+}
+
+function buildChips(){
+  const areas=[...new Set(ITEMS.flatMap(i=>i.areas||[]))].sort((a,b)=>a.localeCompare(b,'pt'));
+  const box=document.getElementById('area-chips'); box.innerHTML='';
+  areas.forEach(a=>{
+    const el=document.createElement('span'); el.className='chip'; el.textContent=a;
+    el.onclick=()=>{ if(selectedAreas.has(a)){selectedAreas.delete(a);el.classList.remove('active');} else {selectedAreas.add(a);el.classList.add('active');} render(); };
+    box.appendChild(el);
+  });
+}
+
+function buildPriority(){
+  const box=document.getElementById('priority-box'), ul=document.getElementById('priority-list');
+  const arch=getArchived();
+  const prio=ITEMS.filter(i=>!arch.has(i.id) && (i.status==='open'||i.status==='soon'))
+    .map(i=>({...i,d:daysUntil(i.prazoSort)}))
+    .filter(i=>i.d!==null && i.d>=0 && i.d<=30)
+    .sort((a,b)=>a.d-b.d);
+  if(!prio.length){ box.style.display='none'; return; }
+  box.style.display='block'; ul.innerHTML='';
+  prio.forEach(i=>{
+    const li=document.createElement('li');
+    const dtxt=i.d===0?'hoje!':(i.d===1?'amanhã!':`${i.d} dias`);
+    const star=getFavs().has(i.id)?'★ ':'';
+    li.innerHTML=`<a href="${i.link}" target="_blank" rel="noopener"><strong>${star}${i.nome}</strong> · ${i.inst} · <span class="pz">${i.prazo} (${dtxt})</span><span class="arrow">↗</span></a>`;
+    ul.appendChild(li);
+  });
+}
+
+function render(){
+  const arch=getArchived(), favs=getFavs();
+  const showArch=document.getElementById('f-archived').checked;
+  const onlyFav=document.getElementById('f-fav').checked;
+  localStorage.setItem(SHOW_ARCH_KEY, showArch?"1":"0");
+  localStorage.setItem(ONLY_FAV_KEY, onlyFav?"1":"0");
+  const fS=document.getElementById('f-status').value;
+  const fT=document.getElementById('f-tipo').value;
+  const fM=document.getElementById('f-mod').value;
+  const q=document.getElementById('f-search').value.toLowerCase().trim();
+
+  let list=ITEMS.filter(i=>{
+    const isArch=arch.has(i.id);
+    if(showArch){ if(!isArch) return false; } else { if(isArch) return false; }
+    if(onlyFav && !favs.has(i.id)) return false;
+    if(fS && i.status!==fS) return false;
+    if(fT && i.tipo!==fT) return false;
+    if(fM && i.mod!==fM) return false;
+    if(selectedAreas.size>0 && !(i.areas||[]).some(a=>selectedAreas.has(a))) return false;
+    if(q){ const blob=(i.nome+' '+i.inst+' '+(i.areas||[]).join(' ')+' '+(i.local||'')+' '+(i.obs||'')).toLowerCase(); if(!blob.includes(q)) return false; }
+    return true;
+  });
+
+  const vis=ITEMS.filter(i=>!arch.has(i.id));
+  document.getElementById('s-open').textContent=vis.filter(i=>i.status==='open').length;
+  document.getElementById('s-soon').textContent=vis.filter(i=>i.status==='soon').length;
+  document.getElementById('s-monitor').textContent=vis.filter(i=>i.status==='monitor').length;
+  document.getElementById('s-always').textContent=vis.filter(i=>i.status==='always').length;
+  document.getElementById('s-fav').textContent=favs.size;
+  document.getElementById('s-arch').textContent=arch.size;
+
+  list.sort((a,b)=>{
+    const fa=favs.has(a.id)?0:1, fb=favs.has(b.id)?0:1;
+    if(fa!==fb) return fa-fb;                           // favoritos no topo
+    const so=statusOrder[a.status]-statusOrder[b.status];
+    if(so!==0) return so;
+    return (a.prazoSort||'').localeCompare(b.prazoSort||'');
+  });
+
+  const el=document.getElementById('list');
+  if(!list.length){ el.innerHTML='<div class="empty">Nenhuma oportunidade corresponde aos filtros.</div>'; buildPriority(); return; }
+  el.innerHTML=list.map(i=>{
+    const isArch=arch.has(i.id), isFav=favs.has(i.id);
+    const areas=(i.areas||[]).map(a=>`<span class="tag">${a}</span>`).join('');
+    const favBtn=`<button class="btn btn-fav ${isFav?'on':''}" onclick="toggleFav('${i.id}')">${isFav?'★ Favorito':'☆ Tenho interesse'}</button>`;
+    const archBtn=isArch
+      ? `<button class="btn" onclick="toggleArchive('${i.id}')">↩︎ Restaurar</button>`
+      : `<button class="btn btn-arch" onclick="toggleArchive('${i.id}')">✕ Não me interessa</button>`;
+    return `<div class="card ${isArch?'archived':''} ${isFav?'fav':''}">
+      <div class="card-main">
+        <div class="card-top">${statusBadge[i.status]||''}<span class="tipo-tag">${i.tipo}</span><span class="mod ${modClass[i.mod]||''}">${i.modLabel||''}</span></div>
+        <div class="title">${isFav?'<span class="star-ico">★</span> ':''}${i.nome}</div>
+        <div class="inst">${i.inst}${i.local?' · '+i.local:''}</div>
+        <div>${areas}</div>
+        ${i.obs?`<div class="obs">${i.obs}</div>`:''}
+        <div class="row-meta">
+          <span><b>Prazo:</b> ${i.prazo||'—'}</span>
+        </div>
+      </div>
+      <div class="links">
+        <a class="btn btn-link" href="${i.link}" target="_blank" rel="noopener">Ver edital ↗</a>
+        ${favBtn}
+        ${archBtn}
+      </div>
+    </div>`;
+  }).join('');
+  buildPriority();
+}
+
+['f-status','f-tipo','f-mod'].forEach(id=>document.getElementById(id).addEventListener('change',render));
+document.getElementById('f-search').addEventListener('input',render);
+document.getElementById('f-archived').addEventListener('change',render);
+document.getElementById('f-fav').addEventListener('change',render);
+
+async function load(){
+  try{
+    const r=await fetch('events.json?t='+Date.now());
+    const data=await r.json();
+    ITEMS=data.items||[];
+    document.getElementById('f-archived').checked = localStorage.getItem(SHOW_ARCH_KEY)==="1";
+    document.getElementById('f-fav').checked = localStorage.getItem(ONLY_FAV_KEY)==="1";
+    buildChips();
+    render();
+  }catch(e){
+    document.getElementById('list').innerHTML='<div class="empty">Não foi possível carregar events.json. Se você abriu o arquivo direto do disco, use o GitHub Pages ou um servidor local (ex.: <code>python -m http.server</code>).</div>';
+  }
+  try{
+    const lu=await (await fetch('last_update.json?t='+Date.now())).json();
+    if(lu.timestamp){ document.getElementById('last-update').textContent=new Date(lu.timestamp).toLocaleString('pt-BR',{day:'2-digit',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit'}); }
+  }catch(e){ document.getElementById('last-update').textContent='15 de junho de 2026'; }
+}
+load();
+</script>
+</body>
+</html>

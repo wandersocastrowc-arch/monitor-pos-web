@@ -4,8 +4,8 @@
   "novos": 0,
   "encerrados_neste_run": 0,
   "por_status": {
-    "open": 8,
-    "closed": 9,
+    "closed": 11,
+    "open": 6,
     "soon": 12,
     "monitor": 13,
     "always": 13

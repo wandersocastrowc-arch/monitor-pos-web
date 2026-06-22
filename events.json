@@ -1076,6 +1076,25 @@
       "status": "always",
       "obs": "Trilha completa em auditoria interna gov.",
       "link": "https://ead.cgu.gov.br/"
+    },
+    {
+      "id": "ufscar-gpm",
+      "nome": "Especialização em Gestão Pública Municipal EaD (300 vagas, polos interior SP)",
+      "inst": "UFSCar — UAB",
+      "tipo": "Especialização",
+      "areas": [
+        "gestão pública",
+        "administração"
+      ],
+      "mod": "online",
+      "modLabel": "EAD (polos interior SP)",
+      "local": "Interior SP",
+      "evento": "",
+      "prazo": "Edição 2026 encerrou 02/06 — monitorar reabertura",
+      "prazoSort": "2026-09-01",
+      "status": "monitor",
+      "obs": "NOVO no radar (rodada 21/06). Edital 15/2026/SEaD/R. 300 vagas em 5 polos no interior paulista, gratuito (taxa R$50, isenção CadÚnico). Módulo básico 180h + específico 210h. Edição 2026 encerrou 02/06 (ordem de inscrição); oferta recorrente via UAB — acompanhar próxima chamada. Vantagem: polos em SP.",
+      "link": "https://gestaopublica.sead.ufscar.br/"
     }
   ]
 }

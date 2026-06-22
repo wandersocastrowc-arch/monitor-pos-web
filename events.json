@@ -1095,6 +1095,468 @@
       "status": "monitor",
       "obs": "NOVO no radar (rodada 21/06). Edital 15/2026/SEaD/R. 300 vagas em 5 polos no interior paulista, gratuito (taxa R$50, isenção CadÚnico). Módulo básico 180h + específico 210h. Edição 2026 encerrou 02/06 (ordem de inscrição); oferta recorrente via UAB — acompanhar próxima chamada. Vantagem: polos em SP.",
       "link": "https://gestaopublica.sead.ufscar.br/"
+    },
+    {
+      "id": "rss-o-programa-de-pos-graduacao-da-ufu-oferece-vagas-na-area-de-",
+      "nome": "O Programa de Pós-Graduação da UFU Oferece Vagas na Área de Tecnologia de Informação e Mídias Educacionais!",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/programa-de-pos-graduacao-da-ufu-oferece-vagas-na-area-de-tecnologia-de-informacao-e-midias-educacionais-dcs/"
+    },
+    {
+      "id": "rss-novo-processo-seletivo-do-ibge-oferece-1-414-vagas-com-salar",
+      "nome": "Novo Processo Seletivo do IBGE Oferece 1.414 Vagas Com Salário de Até R$ 5.255,40 Mais Benefícios!",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/novo-processo-seletivo-do-ibge-oferece-1-414-vagas-com-salario-de-ate-r-5-25540-mais-beneficios-dcs/"
+    },
+    {
+      "id": "rss-fiocruz-abre-inscricoes-para-2-cursos-de-especializacao-ead",
+      "nome": "Fiocruz abre inscrições para 2 Cursos de Especialização EAD",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/fiocruz-abre-inscricoes-para-2-cursos-de-especializacao-ead/"
+    },
+    {
+      "id": "rss-unicamp-abre-227-vagas-para-mestrado-e-doutorado-em-educacao",
+      "nome": "UNICAMP abre 227 vagas para mestrado e doutorado em educação",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-07-15",
+      "prazoSort": "2026-07-15",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/unicamp-abre-227-vagas-para-mestrado-e-doutorado-em-educacao/"
+    },
+    {
+      "id": "rss-ifpi-abre-975-vagas-em-cursos-tecnicos-gratuitos-em-meio-amb",
+      "nome": "IFPI Abre 975 Vagas em Cursos Técnicos Gratuitos em Meio Ambiente, Administração, Tecnologia e Mais!",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/ifpi-abre-975-vagas-em-cursos-tecnicos-gratuitos-em-meio-ambiente-administracao-tecnologia-e-mais-dcs/"
+    },
+    {
+      "id": "rss-ifpe-abre-inscricoes-para-pos-graduacao-em-gestao-ambiental",
+      "nome": "IFPE abre inscrições para pós-Graduação em Gestão Ambiental",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/22/ifpe-abre-inscricoes-para-pos-graduacao-em-gestao-ambiental/"
+    },
+    {
+      "id": "rss-fiocruz-recebe-inscricoes-ate-30-06-para-curso-gratuito-onli",
+      "nome": "Fiocruz recebe inscrições, até 30/06, para curso gratuito online de 120 horas",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/22/fiocruz-recebe-inscricoes-ate-30-06-para-curso-gratuito-online-de-120-horas/"
+    },
+    {
+      "id": "rss-ufmg-abre-80-mil-vagas-em-curso-gratuito-online-com-certific",
+      "nome": "UFMG abre 80 mil vagas em curso gratuito online com certificado",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/22/ufmg-abre-80-mil-vagas-em-curso-gratuito-online-com-certificado/"
+    },
+    {
+      "id": "rss-uemg-abre-300-vagas-em-pos-graduacao-gratuita-ead",
+      "nome": "UEMG abre 300 vagas em pós-graduação gratuita EaD",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-06-22",
+      "prazoSort": "2026-06-22",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/22/pos-graduacao-gratuita-ead-uemg/"
+    },
+    {
+      "id": "rss-ifpi-encerra-amanha-inscricoes-para-975-vagas-em-cursos-tecn",
+      "nome": "IFPI encerra amanhã inscrições para 975 vagas em cursos técnicos gratuitos",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-06-23",
+      "prazoSort": "2026-06-23",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/22/cursos-tecnicos-gratuitos-ifpi/"
+    },
+    {
+      "id": "rss-ufscar-recebe-inscricoes-para-mais-de-100-cursos-gratuitos-t",
+      "nome": "UFSCar recebe inscrições para mais de 100 cursos gratuitos, totalmente online e com certificado",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ufscar-recebe-inscricoes-para-maisde-100-cursos-gratuitos-totalmente-online-e-com-certificado/"
+    },
+    {
+      "id": "rss-sus-abre-inscricoes-para-curso-gratuito-online-sobre-transto",
+      "nome": "SUS abre inscrições para curso gratuito online sobre Transtorno do Espectro Autista",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/sus-abre-inscricoes-para-curso-gratuito-online-sobre-transtorno-do-espectro-autista/"
+    },
+    {
+      "id": "rss-ufam-abre-300-vagas-em-cursos-superiores-gratuitos-ead",
+      "nome": "UFAM abre 300 vagas em cursos superiores gratuitos EaD",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ufam-abre-300-vagas-em-cursos-superiores-gratuitos-ead/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-a-especializacao-gratuita-ead-uab-do",
+      "nome": "Inscrições abertas para a especialização gratuita EaD UAB do IFSP",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-ead-uab-do-ifsp/"
+    },
+    {
+      "id": "rss-ministerio-da-cultura-abre-inscricoes-para-curso-gratuito-on",
+      "nome": "Ministério da Cultura abre inscrições para curso gratuito online sobre Vídeo Mapping e oferece certificado",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ministerio-da-cultura-abre-inscricoes-para-curso-gratuito-online-sobre-video-mapping-e-oferece-certificado/"
+    },
+    {
+      "id": "rss-inpi-abre-vagas-para-o-mestrado-profissional-gratuito-2027",
+      "nome": "INPI abre vagas para o mestrado profissional gratuito 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/inpi-abre-vagas-para-o-mestrado-profissional-gratuito-2027/"
+    },
+    {
+      "id": "rss-fiocruz-abre-250-vagas-em-especializacao-gratuita-a-distanci",
+      "nome": "Fiocruz abre 250 vagas em especialização gratuita a distância em Saúde Pública",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/fiocruz-abre-250-vagas-em-especializacao-gratuita-a-distancia-em-saude-publica/"
+    },
+    {
+      "id": "rss-concurso-prevcom-sp-2026-56-vagas-de-nivel-superior-e-salari",
+      "nome": "Concurso PREVCOM-SP 2026: 56 vagas de nível superior e salário de até R$ 10.656",
+      "inst": "Academia Concursos",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://academiaconcursos.com.br/concurso-prevcom-sp-2026-vagas-nivel-superior-salario/"
+    },
+    {
+      "id": "rss-concurso-alprev-2024-como-garantir-uma-vaga-com-salario-inic",
+      "nome": "Concurso ALPREV 2024: Como garantir uma vaga com salário inicial de R$ 8,5 mil",
+      "inst": "Academia Concursos",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://academiaconcursos.com.br/concurso-alprev-2024-vagas-salario-inicial-8500/"
+    },
+    {
+      "id": "rss-concurso-alprev-2024-inscricoes-abertas-para-50-vagas-com-sa",
+      "nome": "Concurso ALPREV 2024: Inscrições abertas para 50 vagas com salários acima de R$ 8,5 mil",
+      "inst": "Academia Concursos",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://academiaconcursos.com.br/concurso-alprev-2024-inscricoes-abertas-50-vagas-salarios-acima-r-85-mil/"
+    },
+    {
+      "id": "rss-programa-de-pos-graduacao-da-ufu-abre-vagas-em-tecnologia-da",
+      "nome": "Programa de Pós-Graduação da UFU abre vagas em Tecnologia da Informação e Mídias Educacionais",
+      "inst": "Academia Concursos",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://academiaconcursos.com.br/programa-pos-graduacao-ufu-vagas-tecnologia-informacao-midias-educacionais/"
+    },
+    {
+      "id": "rss-fiocruz-abre-inscricoes-para-2-cursos-de-especializacao-ead-",
+      "nome": "Fiocruz abre inscrições para 2 cursos de especialização EAD gratuitos para profissionais do SUS",
+      "inst": "Academia Concursos",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-22",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://academiaconcursos.com.br/fiocruz-inscricoes-cursos-especializacao-ead-sus/"
     }
   ]
 }

@@ -79,7 +79,7 @@
       "evento": "",
       "prazo": "01–22/06/2026",
       "prazoSort": "2026-06-22",
-      "status": "open",
+      "status": "closed",
       "obs": "Gratuito. Terças e quintas 19h-22h, 3 semestres / 390h. Forte aderência de área, mas fora de SP — referência.",
       "link": "https://www.horabrasil.com.br/2026/05/30/especializacao-gratuita-em-gestao-e-negocios-abre-40-vagas-para-2026"
     },
@@ -98,7 +98,7 @@
       "evento": "",
       "prazo": "27/05–26/06/2026",
       "prazoSort": "2026-06-26",
-      "status": "open",
+      "status": "closed",
       "obs": "Edital CEAD-UFCA 06/2026. Gratuito, 3 semestres, início 2026.2. Seleção por análise curricular (barema, máx. 10 pts), resultado 15/07. EAD via UAB — confirmar se avaliações exigem presença nos polos do CE.",
       "link": "https://www.pebsp.com/ufca-abre-inscricoes-para-o-curso-de-especializacao-gratuita-em-gestao-publica-ead-sao-150-vagas-dcs/"
     },
@@ -1278,7 +1278,7 @@
       "evento": "",
       "prazo": "Inscricao ate 2026-06-22",
       "prazoSort": "2026-06-22",
-      "status": "open",
+      "status": "closed",
       "novo": true,
       "addedOn": "2026-06-22",
       "fonte": "RSS",
@@ -1299,7 +1299,7 @@
       "evento": "",
       "prazo": "Inscricao ate 2026-06-23",
       "prazoSort": "2026-06-23",
-      "status": "open",
+      "status": "closed",
       "novo": true,
       "addedOn": "2026-06-22",
       "fonte": "RSS",
@@ -1557,6 +1557,300 @@
       "fonte": "RSS",
       "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
       "link": "https://academiaconcursos.com.br/fiocruz-inscricoes-cursos-especializacao-ead-sus/"
+    },
+    {
+      "id": "rss-ministerio-da-cultura-recebe-inscricoes-para-8-cursos-online",
+      "nome": "Ministério da Cultura recebe inscrições para 8 cursos online gratuitos e com certificado",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/29/ministerio-da-cultura-recebe-inscricoes-para-8-cursos-online-gratuitos-e-com-certificado/"
+    },
+    {
+      "id": "rss-ufscar-abre-selecao-para-mestrado-em-educacao",
+      "nome": "UFSCar abre seleção para mestrado em Educação",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-07-30",
+      "prazoSort": "2026-07-30",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/29/mestrado-educacao-ufscar/"
+    },
+    {
+      "id": "rss-unesp-abre-mestrado-e-doutorado-em-educacao-matematica",
+      "nome": "UNESP abre mestrado e doutorado em Educação Matemática",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/29/mestrado-doutorado-educacao-matematica-unesp/"
+    },
+    {
+      "id": "rss-ifsp-encerra-hoje-inscricoes-para-pos-graduacao-gratuita-ead",
+      "nome": "IFSP encerra hoje inscrições para pós-graduação gratuita EaD",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-06-29",
+      "prazoSort": "2026-06-29",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/29/pos-graduacao-gratuita-ead-ifsp/"
+    },
+    {
+      "id": "rss-curso-online-sobre-materiais-didaticos-do-pnld-abre-vagas-gr",
+      "nome": "Curso online sobre Materiais Didáticos do PNLD abre vagas gratuitas e oferece certificado",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/28/curso-online-sobre-materiais-didaticos-do-pnld-abre-vagas-gratuitas-e-oferece-certificado/"
+    },
+    {
+      "id": "rss-jogo-de-volei-masculino-brasil-x-canada-tera-transmissao-ao-",
+      "nome": "Jogo de vôlei masculino Brasil x Canadá terá transmissão ao vivo online gratuita hoje",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/06/28/jogo-de-volei-masculino-brasil-x-canada-tera-transmissao-ao-vivo-online-gratuita-hoje/"
+    },
+    {
+      "id": "rss-icmbio-oferece-certificado-gratis-em-12-cursos-online-inscri",
+      "nome": "ICMBio oferece certificado grátis em 12 cursos online; inscrições abertas",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/icmbio-oferece-certificado-gratis-em-12-cursos-online-inscricoes-abertas/"
+    },
+    {
+      "id": "rss-if-goiano-abre-vagas-em-cursos-de-especializacao-gratuitos-c",
+      "nome": "IF Goiano abre vagas em cursos de especialização gratuitos com aulas online ou presenciais",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/if-goiano-abre-vagas-em-cursos-de-especializacao-gratuitos-com-aulas-online-ou-presenciais/"
+    },
+    {
+      "id": "rss-mec-abre-inscricoes-para-o-curso-gratuito-e-totalmente-onlin",
+      "nome": "MEC abre inscrições para o curso gratuito e totalmente online sobre construção dos livros didáticos do PNLD",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/mec-abre-inscricoes-para-o-curso-gratuito-e-totalmente-online-sobre-construcao-dos-livros-didaticos-do-pnld/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-o-curso-gratuito-online-como-produzi",
+      "nome": "Inscrições abertas para o curso gratuito online Como produzir cursos de ensino a distância com inteligência artificial generativa",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-gratuito-online-como-produzir-cursos-de-ensino-a-distancia-com-inteligencia-artificial-generativa/"
+    },
+    {
+      "id": "rss-ministerio-da-cultura-abre-inscricoes-para-nova-turma-do-cur",
+      "nome": "Ministério da Cultura abre inscrições para nova turma do curso gratuito e totalmente online sobre Produção de Documentário",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ministerio-da-cultura-abre-inscricoes-para-nova-turma-do-curso-gratuito-e-totalmente-online-sobre-producao-de-documentario/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-as-1200-vagas-gratuitas-do-curso-onl",
+      "nome": "Inscrições abertas para as 1200 vagas gratuitas do curso online sobre TEA e TDAH",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-as-1200-vagas-gratuitas-do-curso-online-sobre-tea-e-tdah/"
+    },
+    {
+      "id": "rss-ifce-abre-1000-vagas-em-curso-gratuito-e-100-online-para-pes",
+      "nome": "IFCE abre 1000 vagas em curso gratuito e 100% online para pessoas de todo o Brasil",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ifce-abre-1000-vagas-em-curso-gratuito-e-100-online-para-pessoas-de-todo-o-brasil/"
+    },
+    {
+      "id": "rss-ifes-abre-350-vagas-na-especializacao-gratuita-online",
+      "nome": "IFES abre 350 vagas na especialização gratuita online",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-06-29",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ifes-abre-350-vagas-na-especializacao-gratuita-online/"
     }
   ]
 }

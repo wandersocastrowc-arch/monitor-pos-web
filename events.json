@@ -156,7 +156,7 @@
       "evento": "",
       "prazo": "08/07/2026 (próxima janela)",
       "prazoSort": "2026-07-08",
-      "status": "open",
+      "status": "closed",
       "obs": "Bolsas CAPES/CNPq. Requer aceite de orientador + POSCOMP/GRE/aluno especial.",
       "link": "https://sig.ufabc.edu.br/sigaa/public/processo_seletivo/lista.jsf?aba=p-processo&nivel=S"
     },
@@ -2013,7 +2013,7 @@
       "evento": "",
       "prazo": "Inscricao ate 2026-07-06",
       "prazoSort": "2026-07-06",
-      "status": "open",
+      "status": "closed",
       "novo": true,
       "addedOn": "2026-07-06",
       "fonte": "RSS",
@@ -2355,6 +2355,405 @@
       "fonte": "RSS",
       "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
       "link": "https://academiaconcursos.com.br/ministerio-saude-ufpb-3-mil-vagas-curso-gratuito-inteligencia-artificial-sus/"
+    },
+    {
+      "id": "rss-ifms-lanca-edital-da-especializacao-gratuita-em-ensino-de-hu",
+      "nome": "IFMS lança edital da especialização gratuita em Ensino de Humanidades e Linguagens EAD com seleção por sorteio",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/ifms-lanca-edital-da-especializacao-gratuita-em-ensino-de-humanidades-e-linguagens-ead-com-selecao-por-sorteio-dcs/"
+    },
+    {
+      "id": "rss-british-council-e-mec-oferecem-formacao-gratuita-em-pensamen",
+      "nome": "British Council e MEC oferecem formação gratuita em Pensamento Computacional",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/british-council-e-mec-oferecem-formacao-gratuita-em-pensamento-computacional/"
+    },
+    {
+      "id": "rss-instituto-federal-abre-vagas-gratuitas-no-curso-de-graduacao",
+      "nome": "Instituto Federal abre vagas gratuitas no curso de graduação em Gestão de Turismo EAD",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/instituto-federal-abre-vagas-gratuitas-no-curso-de-graduacao-em-gestao-de-turismo-ead-dcs/"
+    },
+    {
+      "id": "rss-usp-abre-300-vagas-para-curso-100-online-inscricoes-ja-comec",
+      "nome": "USP abre 300 vagas para curso 100% online; inscrições já começaram",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/usp-abre-300-vagas-para-curso-100-online-inscricoes-ja-comecaram/"
+    },
+    {
+      "id": "rss-terminam-hoje-as-inscricoes-para-4-500-vagas-em-cursos-gratu",
+      "nome": "Terminam hoje as inscrições para 4.500 vagas em cursos gratuitos do IFSULDEMINAS",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/terminam-hoje-as-inscricoes-para-4-500-vagas-em-cursos-gratuitos-do-ifsuldeminas/"
+    },
+    {
+      "id": "rss-cne-define-nova-regra-para-quando-escolas-podem-suspender-au",
+      "nome": "CNE define nova regra para quando escolas podem suspender aulas presenciais",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.pebsp.com/cne-define-nova-regra-para-quando-escolas-podem-suspender-aulas-presenciais/"
+    },
+    {
+      "id": "rss-ifpe-encerrara-hoje-as-inscricoes-para-pos-graduacao-em-gest",
+      "nome": "IFPE encerrará hoje as inscrições para pós-Graduação em Gestão Ambiental",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/07/13/ifpe-encerrara-hoje-as-inscricoes-para-pos-graduacao-em-gestao-ambiental/"
+    },
+    {
+      "id": "rss-curso-gratuito-de-direitos-humanos-e-prevencao-das-violencia",
+      "nome": "Curso gratuito de Direitos Humanos e Prevenção das Violências na rede pública de ensino abre 500 vagas",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/07/12/curso-gratuito-de-direitos-humanos-e-prevencao-das-violencias-na-rede-publica-de-ensino-abre-500-vagas/"
+    },
+    {
+      "id": "rss-copa-2026-horario-dos-jogos-de-hoje-11-07-e-onde-assistir-on",
+      "nome": "Copa 2026: horário dos jogos de hoje, 11/07, e onde assistir online",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2147-06-26",
+      "prazoSort": "2147-06-26",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/07/11/copa-2026-horario-dos-jogos-de-hoje-11-07-e-onde-assistir-online/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-o-curso-online-de-200h-totalmente-gr",
+      "nome": "Inscrições abertas para o curso online, de 200h, totalmente gratuito e com certificado de Assistente Administrativo",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2150-07-26",
+      "prazoSort": "2150-07-26",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://www.horabrasil.com.br/2026/07/11/inscricoes-abertas-para-o-curso-online-de-200h-totalmente-gratuito-e-com-certificado-de-assistente-administrativo/"
+    },
+    {
+      "id": "rss-especializacao-gratuita-em-linguagens-artisticas-cultura-e-e",
+      "nome": "Especialização gratuita em Linguagens Artísticas, Cultura e Educação seleciona alunos para 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-linguagens-artisticas-cultura-e-educacao-seleciona-alunos-para-2027/"
+    },
+    {
+      "id": "rss-ifrj-abre-vagas-na-especializacao-gratuita-em-educacao-de-jo",
+      "nome": "IFRJ abre vagas na especialização gratuita em Educação de Jovens e Adultos 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ifrj-abre-vagas-na-especializacao-gratuita-em-educacao-de-jovens-e-adultos-2027/"
+    },
+    {
+      "id": "rss-comecam-em-10-08-as-inscricoes-para-a-especializacao-gratuit",
+      "nome": "Começam em 10/08 as inscrições para a especialização gratuita em Neuroeducação",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-08-10",
+      "prazoSort": "2026-08-10",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/comecam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-em-neuroeducacao/"
+    },
+    {
+      "id": "rss-especializacao-gratuita-em-ciencias-ambientais-e-areas-coste",
+      "nome": "Especialização gratuita em Ciências Ambientais e Áreas Costeiras seleciona alunos para 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-ciencias-ambientais-e-areas-costeiras-seleciona-alunos-para-2027/"
+    },
+    {
+      "id": "rss-ifrj-lanca-edital-com-vagas-em-especializacao-gratuita-onlin",
+      "nome": "IFRJ lança edital com vagas em especialização gratuita online 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ifrj-lanca-edital-com-vagas-em-especializacao-gratuita-online-2027/"
+    },
+    {
+      "id": "rss-ufba-abre-900-vagas-em-especializacao-gratuita-online-em-sau",
+      "nome": "UFBA abre 900 vagas em especialização gratuita online em Saúde Coletiva",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ufba-abre-900-vagas-em-especializacao-gratuita-online-em-saude-coletiva/"
+    },
+    {
+      "id": "rss-comecam-em-20-07-as-inscricoes-para-os-cursos-de-especializa",
+      "nome": "Começam em 20/07 as inscrições para os cursos de especialização gratuitos em Geografia Escolar e Ciências e Biologia",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Inscricao ate 2026-07-20",
+      "prazoSort": "2026-07-20",
+      "status": "open",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/comecam-em-20-07-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-em-geografia-escolar-e-ciencias-e-biologia/"
+    },
+    {
+      "id": "rss-terminam-hoje-as-inscricoes-para-o-curso-gratuito-a-distanci",
+      "nome": "Terminam hoje as inscrições para o curso gratuito a distância da UFSCar",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/terminam-hoje-as-inscricoes-para-o-curso-gratuito-a-distancia-da-ufscar/"
+    },
+    {
+      "id": "rss-ifpr-abre-vagas-em-cursos-de-graduacao-gratuitos-2027",
+      "nome": "IFPR abre vagas em cursos de graduação gratuitos 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "Verificar prazo",
+      "prazoSort": "2099-01-01",
+      "status": "monitor",
+      "novo": true,
+      "addedOn": "2026-07-13",
+      "fonte": "RSS",
+      "obs": "Descoberto via RSS - confira o edital oficial e se e gratuito.",
+      "link": "https://infoeducacao.com.br/ifpr-abre-vagas-em-cursos-de-graduacao-gratuitos-2027/"
     }
   ]
 }

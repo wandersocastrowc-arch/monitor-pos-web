@@ -37,18 +37,26 @@ KEYWORDS = [
     "economia", "econometr", "financ", "contab", "controlador", "auditoria",
     "administra", "negocio", "gestao publica", "gestao pública", "politicas publicas",
     "ciencia de dados", "ciencia de dado", "analise de dados", "dados", "estatistic",
-    "inteligencia artificial", "inteligência artificial", " ia ", "machine learning",
+    "inteligencia artificial", "inteligência artificial", "machine learning",
     "mercado financeiro", "investimento", "compliance", "risco", "governanca",
     "mestrado", "especializacao", "especialização", "mba", "pos-graduacao",
-    "pós-graduação", "lato sensu", "gratuit", "bolsa integral", "sem mensalidade",
+    "pós-graduação", "lato sensu", "bolsa integral", "sem mensalidade",
 ]
-# Fora do perfil: descarta editais claramente de outras areas, mesmo gratuitos
+# Fora do perfil: descarta editais claramente de outras areas, mesmo gratuitos.
+# Removidos " ia " e "gratuit" das KEYWORDS acima porque casavam com noticia
+# esportiva ("assistir ao vivo gratis", "o time ia jogar"). Esporte/entretenimento
+# entram na BLOCK abaixo para nem chegar a quarentena.
 BLOCK = [
     "alfabetiza", "educacao infantil", "educação infantil", "pedagog", "licenciatur",
     "enfermag", "fisioterap", "odontolog", "veterinar", "agronom", "agricultur",
     "educacao fisica", "educação física", "letras", "historia da arte", "teolog",
     "gestao escolar", "gestão escolar", "ensino de ciencias", "etnico-raciais",
     "educacao especial", "educação especial", "libras", "musica", "música",
+    # esporte / entretenimento / noticia geral
+    "copa", "futebol", "volei", "vôlei", "jogo de", "jogos de", "ao vivo",
+    "assistir", "onde assistir", "transmissao", "transmissão", "novela",
+    "horoscopo", "horóscopo", "loteria", "mega-sena", "palpite", "escalacao",
+    "escalação", "libertadores", "champions", "campeonato", "brasil x",
 ]
 
 
@@ -243,7 +251,7 @@ def ai_curate(cands):
 def recompute_status(items):
     changed = []
     for it in items:
-        if it.get("status") in ("always", "monitor", "soon"):
+        if it.get("status") in ("always", "monitor", "soon", "verificar"):
             continue
         d = parse_date(it.get("prazoSort", ""))
         if not d:
@@ -257,23 +265,31 @@ def recompute_status(items):
 
 
 def to_item(c):
-    deadline = extract_deadline((c.get("nome", "") + " " + c.get("summary", "")))
-    if deadline:
-        if deadline < TODAY:
-            return None
-        prazo, prazoSort, status = "Inscricao ate " + deadline.isoformat(), deadline.isoformat(), "open"
+    auto = c["source"] in ("Google", "RSS")
+    if auto:
+        # Coleta automatica -> QUARENTENA. Nunca entra como "aberto" e nunca
+        # herda um prazo extraido do texto (era a origem das datas falsas tipo 2147).
+        prazo, prazoSort, status = "A verificar no edital oficial", "2099-01-01", "verificar"
     else:
-        prazo, prazoSort, status = "Verificar prazo", "2099-01-01", "monitor"
+        deadline = extract_deadline((c.get("nome", "") + " " + c.get("summary", "")))
+        if deadline:
+            if deadline < TODAY:
+                return None
+            prazo, prazoSort, status = "Inscricao ate " + deadline.isoformat(), deadline.isoformat(), "open"
+        else:
+            prazo, prazoSort, status = "Verificar prazo", "2099-01-01", "monitor"
     areas = c.get("areas") or ["a confirmar"]
     obs = c.get("obs", "")
-    if c["source"] in ("Google", "RSS"):
-        obs = (obs + " Descoberto via " + c["source"] + " - confira o edital oficial e se e gratuito.").strip()
+    if auto:
+        obs = (obs + " Coletado automaticamente via " + c["source"]
+               + " - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.").strip()
     return {
         "id": c["source"][:4].lower() + "-" + slug(c["nome"]),
         "nome": c["nome"], "inst": c.get("inst", ""), "tipo": c.get("tipo", "Especialização"),
         "areas": areas, "mod": "varia", "modLabel": "Verificar modalidade",
         "local": "", "evento": "",
         "prazo": prazo, "prazoSort": prazoSort, "status": status,
+        "quarentena": auto,
         "novo": True, "addedOn": TODAY.isoformat(),
         "fonte": c["source"], "obs": obs, "link": c["link"],
     }

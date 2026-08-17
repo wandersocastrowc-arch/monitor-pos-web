@@ -1,14 +1,13 @@
 {
-  "timestamp": "2026-08-09T13:10",
-  "total": 109,
-  "novos": 0,
+  "timestamp": "2026-08-17T12:29",
+  "total": 112,
+  "novos": 3,
   "encerrados_neste_run": 0,
   "por_status": {
     "closed": 17,
     "soon": 12,
     "monitor": 14,
     "always": 13,
-    "verificar": 53
-  },
-  "limpeza": "quarentena RSS + remocao de esporte"
+    "verificar": 56
+  }
 }

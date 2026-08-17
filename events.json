@@ -2261,6 +2261,72 @@
       "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
       "link": "https://infoeducacao.com.br/unipampa-seleciona-alunos-para-cursos-de-graduacao-gratuitos-e-nao-faz-prova/",
       "quarentena": true
+    },
+    {
+      "id": "rss-ifc-abre-matriculas-para-curso-de-extensao-gratuito-de-negoc",
+      "nome": "IFC abre matrículas para curso de extensão gratuito de Negócios e Inteligência Artificial até 19 de agosto",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-17",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/ifc-abre-matriculas-para-curso-de-extensao-gratuito-de-negocios-e-inteligencia-artificial-ate-19-de-agosto-dcs/"
+    },
+    {
+      "id": "rss-2-editais-de-especializacao-somam-550-vagas-e-encerram-inscr",
+      "nome": "2 Editais de Especialização somam 550 vagas e encerram inscrições nesta semana; veja cursos e prazos",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-17",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/2-editais-de-especializacao-somam-550-vagas-e-encerram-inscricoes-nesta-semana-veja-cursos-e-prazos/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-a-especializacao-gratuita-a-distanci",
+      "nome": "Inscrições abertas para a especialização gratuita a distância em Saúde e Segurança do Trabalho 2026",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-17",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-saude-e-seguranca-do-trabalho-2026/"
     }
   ]
 }

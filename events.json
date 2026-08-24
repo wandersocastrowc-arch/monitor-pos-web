@@ -2327,6 +2327,160 @@
       "fonte": "RSS",
       "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
       "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-saude-e-seguranca-do-trabalho-2026/"
+    },
+    {
+      "id": "rss-ifrj-oferece-cursos-gratuitos-de-formacao-inicial-e-continua",
+      "nome": "IFRJ oferece cursos gratuitos de formação inicial e continuada em Assistente Administrativo e Logística",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/ifrj-oferece-cursos-gratuitos-de-formacao-inicial-e-continuada-em-assistente-administrativo-e-logistica-dcs/"
+    },
+    {
+      "id": "rss-comecam-amanha-as-inscricoes-para-as-600-vagas-na-especializ",
+      "nome": "Começam amanhã as inscrições para as 600 vagas na especialização gratuita a distância em Educação a Distância",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/comecam-amanha-as-inscricoes-para-as-600-vagas-na-especializacao-gratuita-a-distancia-em-educacao-a-distancia/"
+    },
+    {
+      "id": "rss-ifsul-abre-420-vagas-em-especializacao-gratuita-a-distancia",
+      "nome": "IFSul abre 420 vagas em especialização gratuita a distância",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/ifsul-abre-420-vagas-em-especializacao-gratuita-a-distancia/"
+    },
+    {
+      "id": "rss-ifsp-abre-40-vagas-na-especializacao-gratuita-em-gestao-de-p",
+      "nome": "IFSP abre 40 vagas na especialização gratuita em Gestão de Projetos 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/ifsp-abre-40-vagas-na-especializacao-gratuita-em-gestao-de-projetos-2027/"
+    },
+    {
+      "id": "rss-ifmg-abre-200-vagas-em-especializacao-gratuita-online",
+      "nome": "IFMG abre 200 vagas em especialização gratuita online",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/ifmg-abre-200-vagas-em-especializacao-gratuita-online/"
+    },
+    {
+      "id": "rss-ufv-abre-inscricoes-para-especializacao-gratuita-online",
+      "nome": "UFV abre inscrições para especialização gratuita online",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/ufv-abre-inscricoes-para-especializacao-gratuita-online/"
+    },
+    {
+      "id": "rss-inpa-abre-selecao-para-mestrado-em-ciencias-de-florestas-tro",
+      "nome": "Inpa abre seleção para mestrado em Ciências de Florestas Tropicais com ingresso em 2027",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-24",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/inpa-abre-selecao-para-mestrado-em-ciencias-de-florestas-tropicais-com-ingresso-em-2027/"
     }
   ]
 }

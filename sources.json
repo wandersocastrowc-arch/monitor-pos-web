@@ -1,8 +1,34 @@
 {
   "_comentario": "Fontes do agregador de pós-graduação gratuita. Adicionar uma fonte = uma linha aqui. Feeds que falharem são ignorados sem quebrar o robô. DOAJ/OpenAlex/WikiCFP ficam vazios porque são voltados a periódicos acadêmicos, não a editais de pós gratuita.",
   "rss_feeds": [
-    {"url": "https://www.pebsp.com/feed/", "area": ["pós-graduação"], "tipo": "Especialização"},
-    {"url": "https://infoeducacao.com.br/feed/", "area": ["pós-graduação"], "tipo": "Especialização"}
+    {
+      "url": "https://www.pebsp.com/feed/",
+      "area": [
+        "pós-graduação"
+      ],
+      "tipo": "Especialização"
+    },
+    {
+      "url": "https://infoeducacao.com.br/feed/",
+      "area": [
+        "pós-graduação"
+      ],
+      "tipo": "Especialização"
+    },
+    {
+      "url": "https://www.horabrasil.com.br/feed/",
+      "area": [
+        "pós-graduação"
+      ],
+      "tipo": "Especialização"
+    },
+    {
+      "url": "https://www.pebsp.com/cursos/mestrado/feed/",
+      "area": [
+        "mestrado"
+      ],
+      "tipo": "Mestrado"
+    }
   ],
   "wikicfp_cats": [],
   "doaj_queries": [],

@@ -2481,6 +2481,138 @@
       "fonte": "RSS",
       "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
       "link": "https://infoeducacao.com.br/inpa-abre-selecao-para-mestrado-em-ciencias-de-florestas-tropicais-com-ingresso-em-2027/"
+    },
+    {
+      "id": "rss-avanco-da-ia-leva-universidades-a-repensar-formacao-docente-",
+      "nome": "Avanço da IA leva universidades a repensar formação docente, autoria, avaliação e critérios para o uso de chatbots nas aulas",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/avanco-da-ia-leva-universidades-a-repensar-formacao-docente-autoria-avaliacao-e-criterios-para-o-uso-de-chatbots-nas-aulas/"
+    },
+    {
+      "id": "rss-if-sudeste-mg-abre-mba-em-gestao-empreendedora-100-ead-com-3",
+      "nome": "IF Sudeste MG abre MBA em Gestão Empreendedora 100% EaD com 30 vagas",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/if-sudeste-mg-abre-mba-em-gestao-empreendedora-100-ead-com-30-vagas/"
+    },
+    {
+      "id": "rss-claude-for-teachers-altera-regras-de-uso-e-restringe-dados-d",
+      "nome": "Claude for Teachers Altera Regras de Uso e Restringe Dados de Alunos Após Críticas",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/anthropic-muda-exemplos-do-claude-for-teachers-e-reforca-regras-de-privacidade-de-dados-de-estudantes/"
+    },
+    {
+      "id": "rss-profhistoria-2027-inscricoes-abertas-para-672-vagas-no-mestr",
+      "nome": "ProfHistória 2027: inscrições abertas para 672 vagas no mestrado profissional gratuito",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/profhistoria-2027-inscricoes-abertas-para-672-vagas-no-mestrado-profissional-gratuito/"
+    },
+    {
+      "id": "rss-uepg-seleciona-alunos-para-vagas-remanescentes-dos-cursos-de",
+      "nome": "UEPG seleciona alunos para vagas remanescentes dos cursos de especialização gratuitos",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/uepg-seleciona-alunos-para-vagas-remanescentes-dos-cursos-de-especializacao-gratuitos/"
+    },
+    {
+      "id": "rss-if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especiali",
+      "nome": "IF Sudeste MG seleciona alunos para dois cursos de especialização técnica gratuitos EAD",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-08-31",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especializacao-tecnica-gratuitos-ead/"
     }
   ]
 }

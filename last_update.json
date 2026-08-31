@@ -1,13 +1,14 @@
 {
-  "timestamp": "2026-08-31T18:34",
-  "total": 125,
-  "novos": 6,
-  "encerrados_neste_run": 0,
+  "timestamp": "2026-08-31T20:20",
+  "total": 73,
+  "novos": 2,
+  "encerrados_neste_run": 3,
   "por_status": {
-    "closed": 17,
+    "open": 5,
     "soon": 12,
-    "monitor": 14,
+    "monitor": 16,
     "always": 13,
-    "verificar": 69
-  }
+    "closed": 27
+  },
+  "limpeza": "sync manual com curadoria Cowork 31/08 (site espelha o artifact; sem itens 'a verificar')"
 }

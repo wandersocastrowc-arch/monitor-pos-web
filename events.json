@@ -181,7 +181,7 @@
       "evento": "",
       "prazo": "Inscrições 03/08–11/09/2026",
       "prazoSort": "2026-09-11",
-      "status": "open",
+      "status": "closed",
       "obs": "Edital nº 98/2026-DRG-CAR publicado em 27/07: 30 vagas (19 AC, 9 PPIQ, 2 PcD), gratuito, sem taxa de inscrição. Forte aderência de área: finanças aplicadas à gestão de empresas, projetos empresariais, estratégia e ESG — ~450h, início 15/02/2027, até 30 meses. Seleção sem prova: currículo (até 4 pts) + projeto de pesquisa de até 5 páginas (até 2 pts) + entrevista (até 4 pts); só os 60 primeiros vão à entrevista. ⚠️ PRESENCIAL em Caraguatatuba (litoral norte, ~180 km da capital), aulas ter–qui à noite — fora do perfil geográfico, viável só com mudança. Fica como referência de que o IFSP segue abrindo pós em finanças; resultado final 19/11/2026.",
       "link": "https://www.ifspcaraguatatuba.edu.br/cursos/pos-graduacao/pos-graduacao-lato-sensu-gestao-financeira-e-de-negocios"
     },
@@ -1817,6 +1817,248 @@
       "fonte": "RSS",
       "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
       "link": "https://www.pebsp.com/profeducatec-prorroga-inscricoes-mestrado-6-setembro-2026/"
+    },
+    {
+      "id": "rss-fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacio",
+      "nome": "Fiocruz lança especialização EAD com 220 vagas e turma nacional",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacional/"
+    },
+    {
+      "id": "rss-ufpel-e-uab-encerram-amanha-as-inscricoes-para-ingresso-na-p",
+      "nome": "UFPel e UAB encerram amanhã as inscrições para ingresso na pós-graduação gratuita e EAD em Computação na Educação",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/ufpel-e-uab-encerram-amanha-as-inscricoes-para-ingresso-na-pos-graduacao-gratuita-e-ead-em-computacao-na-educacao-dcs/"
+    },
+    {
+      "id": "rss-especializacao-em-as-africas-e-suas-diasporas-unifesp-uab-ab",
+      "nome": "Especialização em As Áfricas e suas Diásporas — UNIFESP/UAB abre 150 vagas EaD gratuitas",
+      "inst": "PEBSP – Portal de Educação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/especializacao-em-as-africas-e-suas-diasporas-unifesp-uab-abre-150-vagas-ead-gratuitas/"
+    },
+    {
+      "id": "rss-ifsuldeminas-abre-750-vagas-no-curso-gratuito-online-de-fund",
+      "nome": "IFSULDEMINAS abre 750 vagas no curso gratuito online de Fundamentos de Inteligência Artificial",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/ifsuldeminas-abre-750-vagas-no-curso-gratuito-online-de-fundamentos-de-inteligencia-artificial/"
+    },
+    {
+      "id": "rss-escola-fundacao-itau-pagara-o-curso-de-mestrado-profissional",
+      "nome": "Escola Fundação Itaú pagará o curso de mestrado profissional em Artes e Práticas Culturais para 32 alunos; inscrições abertas",
+      "inst": "InfoEducação",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://infoeducacao.com.br/escola-fundacao-itau-pagara-o-curso-de-mestrado-profissional-em-artes-e-praticas-culturais-para-32-alunos-inscricoes-abertas/"
+    },
+    {
+      "id": "rss-ifmg-recebe-inscricoes-para-a-especializacao-gratuita-online",
+      "nome": "IFMG recebe inscrições para a especialização gratuita online até o dia 24/09",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.horabrasil.com.br/2026/09/14/ifmg-recebe-inscricoes-para-a-especializacao-gratuita-online-ate-o-dia-24-09/"
+    },
+    {
+      "id": "rss-ufms-abre-9-363-vagas-em-131-cursos-de-graduacao-gratuitos-c",
+      "nome": "UFMS abre 9.363 vagas em 131 cursos de graduação gratuitos, com opções EaD e IA",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.horabrasil.com.br/2026/09/13/ufms-graduacao-2027/"
+    },
+    {
+      "id": "rss-inscricoes-abertas-para-a-especializacao-gratuita-em-logisti",
+      "nome": "Inscrições abertas para a especialização gratuita em Logística e Operações",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.horabrasil.com.br/2026/09/13/inscricoes-abertas-para-a-especializacao-gratuita-em-logistica-e-operacoes/"
+    },
+    {
+      "id": "rss-mestrado-profissional-abre-572-vagas-para-professores-de-bio",
+      "nome": "Mestrado profissional abre 572 vagas para professores de Biologia da rede pública",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.horabrasil.com.br/2026/09/13/mestrado-mec-biologia-professores-rede-publica/"
+    },
+    {
+      "id": "rss-especializacao-gratuita-em-gestao-de-projetos-recebe-inscric",
+      "nome": "Especialização gratuita em Gestão de Projetos recebe inscrições",
+      "inst": "Hora Brasil",
+      "tipo": "Especialização",
+      "areas": [
+        "pós-graduação"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.horabrasil.com.br/2026/09/13/especializacao-gratuita-em-gestao-de-projetos-recebe-inscricoes/"
+    },
+    {
+      "id": "rss-ufabc-abre-dezenas-de-vagas-em-4-programas-de-pos-graduacao-",
+      "nome": "UFABC abre dezenas de vagas em 4 Programas de Pós-Graduação em Engenharias com inscrições abertas",
+      "inst": "Mestrado: Edital e Inscrições de mestrado na área da Educação | PEBSP",
+      "tipo": "Mestrado",
+      "areas": [
+        "mestrado"
+      ],
+      "mod": "varia",
+      "modLabel": "Verificar modalidade",
+      "local": "",
+      "evento": "",
+      "prazo": "A verificar no edital oficial",
+      "prazoSort": "2099-01-01",
+      "status": "verificar",
+      "quarentena": true,
+      "novo": true,
+      "addedOn": "2026-09-14",
+      "fonte": "RSS",
+      "obs": "Coletado automaticamente via RSS - NAO confirmado. Verifique no edital oficial se e gratuito e do seu perfil.",
+      "link": "https://www.pebsp.com/ufabc-abre-110-vagas-em-4-programas-de-pos-graduacao-em-engenharias-com-inscricoes-abertas-dcs/"
     }
   ]
 }
